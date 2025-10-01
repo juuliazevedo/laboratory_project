@@ -21,8 +21,7 @@ Sempre que for necessário analisar, acessar ou manipular os dados públicos ret
 
 6. How (Como funciona?)
 
-1.	O usuário clona o repositório no GitHub.
-2.	Instala as dependências (pip install -r requirements.txt).
-3.	Executa o script principal (python main.py).
-4.	O programa acessa o site Ingresso Digital, procura por Maceió no espaço de busca, depois coleta os dados, como, títulos, categorias,  preços, datas, horários etc. Organiza
+•O usuário clona o repositório no GitHub.•Instala as dependências (pip install -r requirements.txt).
+•Executa o script principal (python main.py).
+•O programa acessa o site Ingresso Digital, procura por Maceió no espaço de busca, depois coleta os dados, como, títulos, categorias,  preços, datas, horários etc. Organiza
 Os dados em listas e salva no arquivo movies.csv.
