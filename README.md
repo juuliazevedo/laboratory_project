@@ -35,6 +35,6 @@ Além de ser uma boa prática de automações em Python, criação de DataFrames
 - O usuário clona o repositório no GitHub.
 - Instala as dependências (pip install -r requirements.txt).
 - Executa o script principal (python main.py).
-- O programa acessa o site Ingresso Digital, procura por Maceió no espaço de busca, depois coleta os dados, como, títulos, categorias,  preços, datas, horários etc. Organiza
-Os dados em listas e salva no arquivo movies.csv.
+- O programa acessa o site Ingresso Digital, procura por Maceió no espaço de busca, depois coleta os dados, como, títulos, categorias,  preços, datas, horários etc. E organiza os dados em listas e salva no arquivo mcz_eventos.csv.
+
 
