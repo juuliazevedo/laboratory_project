@@ -104,4 +104,4 @@ dictDF = {'TÍTULO': lista_titulos,
 print(pd.DataFrame(dictDF))
 
 df = pd.DataFrame(dictDF)
-#df.to_csv("mcz_eventos.csv")
+df.to_csv("mcz_eventos.csv")
